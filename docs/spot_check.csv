@@ -1,0 +1,23 @@
+id,name,batch,status,industry,url,name_ok,batch_ok,status_ok,industry_ok,notes
+13168,Infield,Winter 2020,Active,B2B,https://www.ycombinator.com/companies/infield,y,y,y,y,
+29253,Andon Labs,Winter 2024,Active,B2B,https://www.ycombinator.com/companies/andon-labs,y,y,y,y,
+31092,Axis,Winter 2026,Active,Fintech,https://www.ycombinator.com/companies/axis-2,y,y,y,y,
+22079,Formal,Summer 2020,Active,B2B,https://www.ycombinator.com/companies/formal,y,y,y,y,
+27109,HOMLI,Summer 2022,Active,Real Estate and Construction,https://www.ycombinator.com/companies/homli,y,y,y,y,
+30964,Sava,Fall 2025,Active,Fintech,https://www.ycombinator.com/companies/savahq,y,y,y,y,
+842,Raven Tech,Winter 2015,Acquired,B2B,https://www.ycombinator.com/companies/raven-tech,y,y,y,y,
+1026,Open Motors,Winter 2016,Inactive,Industrials,https://www.ycombinator.com/companies/open-motors,y,y,y,y,
+28119,Fabius,Winter 2023,Inactive,B2B,https://www.ycombinator.com/companies/fabius,y,y,y,y,
+665,Craft Coffee,Summer 2014,Acquired,Consumer,https://www.ycombinator.com/companies/craft-coffee,y,y,y,y,
+13115,OpenUnit,Winter 2020,Active,B2B,https://www.ycombinator.com/companies/openunit,y,y,y,y,
+12282,Truora,Winter 2019,Active,B2B,https://www.ycombinator.com/companies/truora,y,y,y,y,
+28902,Sidenote,Summer 2023,Inactive,B2B,https://www.ycombinator.com/companies/sidenote,y,y,y,y,
+131,Hungry Labs,Summer 2011,Inactive,Consumer,https://www.ycombinator.com/companies/hungry-labs,y,y,y,y,
+255,GraffitiGeo,Summer 2009,Acquired,Consumer,https://www.ycombinator.com/companies/graffitigeo,y,y,y,y,
+1491,InnaMed,Winter 2017,Inactive,Healthcare,https://www.ycombinator.com/companies/innamed,y,y,y,y,
+1303,Lendsnap,Summer 2016,Inactive,Fintech,https://www.ycombinator.com/companies/lendsnap,y,y,y,y,
+286,Frogmetrics,Summer 2008,Inactive,B2B,https://www.ycombinator.com/companies/frogmetrics,y,y,y,y,
+31436,Prototyping.io,Spring 2026,Acquired,Industrials,https://www.ycombinator.com/companies/prototypingio,y,y,y,y,Acquired within months of Spring 2026 batch; confirmed on YC page
+23462,boitas.com,Winter 2021,Inactive,B2B,https://www.ycombinator.com/companies/boitas-com,y,y,y,y,
+36906,Memorable,Summer 2027,Active,B2B,https://www.ycombinator.com/companies/memorable,y,y,y,y,"YC page lists Summer 2027 (future batch, likely early acceptance); subcategory: developer tools"
+32165,Rote,Winter 2027,Active,B2B,https://www.ycombinator.com/companies/rote,y,y,y,y,"YC page lists Winter 2027 (future batch, likely early acceptance); subcategory: workflow automation; company site tryrote.com"
