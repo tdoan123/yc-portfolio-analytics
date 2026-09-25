@@ -1,0 +1,26 @@
+# Data (never commit raw or processed data)
+data/**
+!data/**/
+!data/**/.gitkeep
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI temp / backup files
+*.pbix.bak
+~$*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
